@@ -45,4 +45,4 @@ n: is for naming your logical volume, here i have named it bigdatalv1 followed b
 10. To reduce LV
 #lvreduce -L -100M /dev/bigdata/bigdatalv1
 
-3.5K viewsView 22 upvotes
+
